@@ -1,0 +1,116 @@
+*{
+    margin: 0;    padding: 0;    box-sizing: border-box; 
+}
+body{
+    height: 100%;
+    max-height: 100%;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+}
+main{
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 10%;
+}
+#search-home-menu{
+    margin-bottom: 15px;
+}
+#search-black{
+    
+    height: 25px;
+}
+#home{
+    margin: auto 100px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+#menu-icon{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.tabs{
+    
+    display: inline;
+    list-style-type: none;
+    margin-left: 10px;
+    border: 1px solid #faf1f1; 
+    border-radius: 30px;
+    padding: 7px 3%;
+    
+    font-size: 14px;
+
+}
+.btn-classes{
+    
+    width: 70px;
+    background-color: #ffffff;
+    border-radius: 30px;
+    border-color: #ffffff;
+    box-shadow: 1px;
+    font-weight: bold;
+    border-width: 4px;
+
+}
+.quadrado-preto{
+    height: 7px;
+    margin-left: 4px;
+    margin-right: 4px;
+ 
+
+}
+.img-perfil{
+    display: auto;
+    height: 40px;
+    float: left;
+    border-radius: 550px 500px 500px 500px;
+    border-radius: 60px 60px;
+    border: 3px inset;
+}
+#perfil1{
+    margin-bottom: 17px;
+    margin-top: 15px;
+    border-bottom: 1px solid #e9dddd;
+}
+.name-user{
+    margin-left: 10px;
+    font-weight: 600;
+    float: left;
+    font-size: 1.1em;
+   
+}
+.desc{
+    font-weight: 300;
+    margin-left: 10px;
+    float: left;
+    margin-bottom: 15px;
+    font-size: 0.9em;
+}
+.post{
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+  
+}
+.icons-after-post{
+    height: 25px;
+}
+#hearth-red{
+    margin-left: 10px;
+    margin-right: 15px;
+}
+#name2{
+    margin-right: 15px;
+
+}
+.icons-rodape{
+    height: 35px;
+    margin: auto 12px;
+}
+#show-more{
+    height: 60px;
+    margin: 0;
+}
+
